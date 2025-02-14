@@ -1,10 +1,11 @@
 ## Olá, eu sou Leonardo Araújo 👋
 
 ## Sobre mim
-  💻passionate about technology
-  👨‍💻studying information systems at unifacisa
+• 💻 Apaixonado por tecnologia  
+• 👨‍💻 Estudando Sistemas de Informação na Unifacisa  
+• 📚 Atualmente aprendendo JavaScript e aprofundando conhecimentos em bancos de dados 
   
-## Skills
+## 🔨 Habilidades
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -15,4 +16,14 @@
   
 </div><br/>
 
-## DataBase
+## 🗃 Banco de dados
+
+<div style="display: inline_block">
+  <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img align="center" alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+</div>
+
+## 🌐 Conecte-se comigo
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-lucas-araujo/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonardoaraujodev6@gmail.com)
