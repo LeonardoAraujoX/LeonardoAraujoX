@@ -2,7 +2,7 @@
 
 ## Sobre mim
 • 💻 Apaixonado por tecnologia  
-• 👨‍💻 Estudando Sistemas de Informação na Unifacisa  
+• 👨‍💻 Estudante Sistemas de Informação na Unifacisa  
 • 📚 Atualmente aprendendo JavaScript e aprofundando conhecimentos em bancos de dados 
   
 ## 🔨 Habilidades
